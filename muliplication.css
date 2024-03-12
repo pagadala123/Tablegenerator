@@ -1,0 +1,59 @@
+
+body{
+    text-align: center;
+    font-size: larger;
+    width: 100%;
+    height: 100vh;
+    background: url(background.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    width: 100%;
+    color: black;
+}
+label{
+    font: weight 700;
+    color: black;
+    
+}
+#title{
+    background:palevioletred;
+}
+.search{
+    display: flex;
+    width: 50%;
+    margin-left: 25%;
+    flex-direction: column;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    background: lightcyan transparent;
+
+}
+
+
+#gen{
+    background-color:lightcoral;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 40px;
+
+}
+.show{
+    margin-top: 20px;
+    color: black;
+    padding-top: 20px;
+    font-size:30px
+}
+.com{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    background-color:whitesmoke;
+    border: 1px solid black;
+    
+}
+
+
+
+
